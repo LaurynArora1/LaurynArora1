@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurynArora1
+- 👋 Hi, I’m Lauryn Arora
 - 👀 I’m interested in data science, machine learning.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on open souce projects.
