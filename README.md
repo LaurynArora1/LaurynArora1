@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lauryn Arora
 - 👀 I’m interested in data science, machine learning.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on open souce projects.
 - 📫 How to reach me ...LinkedIn
 
